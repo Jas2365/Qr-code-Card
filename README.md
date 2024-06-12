@@ -36,7 +36,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Jas2365/Qr-code-Card)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://jas2365.github.io/Qr-code-Card/)
 
 ## My process
   using grid to place and style items
