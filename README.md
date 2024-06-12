@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Jas2365/development/tree/main/qr-code-component-main/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Jas2365/Qr-code-Card)
+- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
 
 ## My process
   using grid to place and style items
@@ -95,4 +95,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - Frontend Mentor - [@Jas2365](https://www.frontendmentor.io/profile/Jas2365)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
-# Qr-code-Card
+# Qr-code Card
