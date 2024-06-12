@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  background-color: hsl(212, 45%, 89%);
+  grid-template-columns: 220px;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+
+.items {
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 20px;
+
+}
+
+.qr-code {
+  border-radius: 20px;
+}
+
+.line {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#line-1 {
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+#line-2 {
+  color: hsl(220, 15%, 55%);
+  font-size: 11px;
+}
+.attribution {
+  border: 2px solid black;
+  display: inline;
+  font-family: fantasy;
+  background-color: yellow;
+}
